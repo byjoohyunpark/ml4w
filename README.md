@@ -4,4 +4,4 @@ This Github repository is used to submit my projects for Yining Shi's [Machine L
 
 * [Regression](https://byjoohyunpark.github.io/regression-curve/)
 * [Flume](https://byjoohyunpark.github.io/ml4w/flume)
-* [final proposal](https://github.com/byjoohyunpark/ml4w/tree/master/final)
+* [Final proposal](https://github.com/byjoohyunpark/ml4w/tree/master/final)

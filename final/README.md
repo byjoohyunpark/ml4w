@@ -10,6 +10,7 @@ An immersive sound environment of virtual forest trained and created with ML-gen
 
 ## Idea
 Using audio generation technique, make new format of sounds based on sound of forest on Earth. 
+```Sounds of real forest -> sounds of virtual forest ```
 Create web environment to deliver these sounds in visual(?) or immersive context. 
 
 

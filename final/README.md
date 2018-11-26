@@ -1,2 +1,2 @@
-# Unknown Forest (Alpha version of Thesis)
+# Unknown Forest -Alpha ver. of Thesis
 

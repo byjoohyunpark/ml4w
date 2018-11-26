@@ -3,6 +3,7 @@ A virtual forest trained and created with ML-generated sounds.
 
 
 ## Idea
+Using audio generation technique, make new format of sounds based on sound of forest on Earth.
 
 
 ## Tech Stack

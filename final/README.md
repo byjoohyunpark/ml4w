@@ -20,5 +20,11 @@ Create web environment to deliver these sounds in visual(?) or immersive context
 
 ## Question
 * Collecting and organizing training dataset. -> The most critical part. 
-> total amount / size of each data / elegant way to evenly reflect different sounds 
+``` 
+size of whole dataset
+size of each data
+elegant way to evenly reflect different sounds
+``` 
 * How to catch the cracking noise of output?
+* How to deal with expensive training process.
+* Would the ouput acceptable or listenable?

@@ -1,9 +1,10 @@
 # Unknown Forest (Alpha version of Thesis)
-A virtual forest trained and created with ML-generated sounds.
+An immersive sound environment of virtual forest trained and created with ML-generated sounds.
 
 
 ## Idea
-Using audio generation technique, make new format of sounds based on sound of forest on Earth.
+Using audio generation technique, make new format of sounds based on sound of forest on Earth. 
+Create web environment to deliver these sounds in visual(?) or immersive context. 
 
 
 ## Tech Stack

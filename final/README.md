@@ -29,3 +29,5 @@ elegant way to evenly reflect different sounds
 * How to catch the cracking noise of output?
 * How to deal with expensive training process.
 * Would the output acceptable or listenable?
+* Overfitting problem.
+* Training steps?

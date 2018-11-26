@@ -16,6 +16,7 @@ Create web environment to deliver these sounds in visual(?) or immersive context
 ## Tech Stack
 * Magenta (NSynth)
 * Wavenet
+* Web VR
 
 
 ## Question
@@ -27,4 +28,4 @@ elegant way to evenly reflect different sounds
 ``` 
 * How to catch the cracking noise of output?
 * How to deal with expensive training process.
-* Would the ouput acceptable or listenable?
+* Would the output acceptable or listenable?

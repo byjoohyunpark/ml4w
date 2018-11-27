@@ -19,7 +19,7 @@ Create web environment to deliver these sounds in visual(?) or immersive context
 ## Tech Stack
 * Magenta (NSynth)
 * Wavenet
-* Web VR
+* Web VR (or Spatial audio)
 
 
 ## Question

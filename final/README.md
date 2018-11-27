@@ -6,6 +6,7 @@ An immersive sound environment of virtual forest trained and created with ML-gen
 * [Mazurka (After Chopin) by David Cope (1994?)](https://soundcloud.com/machinelearningmusic/mazurka-after-chopin-by-david-cope?fbclid=IwAR0dQc2bq28wYbV2GjkcXpLHdqLRO4O7CgxwbcrP3G3O6O4oU1AAHx4vI20)
 * [Wavenet examples](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 * [tensorflow-wavenet 500 msec 88K train steps speaker p280](https://soundcloud.com/user-731806733/tensorflow-wavenet-500-msec-88k-train-steps)
+* [Single Voice Training and Synthesizing using WaveNet](https://hollygrimm.com/wavenet_plath)
 
 
 ## Idea
